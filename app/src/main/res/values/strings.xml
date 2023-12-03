@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Programming App</string>
+
+    <string name="dat1">Day 1</string>
+    <string name="title1">Php</string>
+<string name="desc1">PHP: Hypertext Preprocessor atau hanya PHP saja, adalah bahasa skrip dengan fungsi umum yang terutama digunakan untuk pengembangan web</string>
+
+    <string name="dat2">Day 2</string>
+    <string name="title2">Python</string>
+    <string name="desc2">Python adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991, filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan.</string>
+
+
+    <string name="dat3">Day 3</string>
+    <string name="title3">Jquery</string>
+    <string name="desc3">jQuery adalah pustaka JavaScript lintas-platform yang didesain untuk menyederhanakan client-side scripting pada HTML</string>
+
+    <string name="dat4">Day 4</string>
+    <string name="title4">C++</string>
+    <string name="desc4">C++ adalah bahasa pemrograman komputer yang dibuat oleh Bjarne Stroustrup, yang merupakan perkembangan dari bahasa C dikembangkan di Bell Labs.</string>
+
+    <string name="dat5">Day 5</string>
+    <string name="title5">Express Js</string>
+    <string name="desc5">Express.js, atau hanya Express, adalah kerangka kerja aplikasi web back end untuk membangun RESTful API dengan Node.js, dirilis sebagai perangkat lunak sumber terbuka dan gratis di bawah Lisensi MIT. Ini dirancang untuk membangun aplikasi web dan API.</string>
+
+    <string name="dat6">Day 6</string>
+    <string name="title6">Java</string>
+    <string name="desc6">Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Bahasa ini awalnya dibuat oleh James Gosling saat masih bergabung di Sun Microsystems, yang saat ini merupakan bagian dari Oracle dan dirilis tahun 1995</string>
+
+    <string name="dat7">Day 7</string>
+    <string name="title7">Css</string>
+    <string name="desc7">Cascading Style Sheet merupakan aturan untuk mengatur beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemrograman.</string>
+
+    <string name="dat8">Day 8</string>
+    <string name="title8">Codeigniter</string>
+    <string name="desc8">CodeIgniter merupakan aplikasi sumber terbuka yang berupa kerangka kerja PHP dengan model MVC untuk membangun situs web dinamis dengan menggunakan PHP. CodeIgniter memudahkan pengembang web untuk membuat aplikasi web dengan cepat dan mudah dibandingkan dengan membuatnya dari awal.</string>
+
+    <string name="dat9">Day 9</string>
+    <string name="title9">C#</string>
+    <string name="desc9">C# adalah sebuah bahasa pemrograman berorientasi objek yang dikembangkan oleh Microsoft sebagai bagian dari inisiatif kerangka .NET Framework.</string>
+
+    <string name="dat10">Day 10</string>
+    <string name="title10">Html</string>
+    <string name="desc10">Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. Ini dapat dibantu oleh teknologi seperti Cascading Style Sheets dan bahasa skrip lainnya seperti JavaScript, VBScript, dan PHP.</string>
+
+    <string name="dat11">Day 11</string>
+    <string name="title11">Delphi</string>
+    <string name="desc11">Delphi adalah sebuah Lingkungan pengembangan terpadu untuk mengembangkan aplikasi konsol, desktop, web, ataupun perangkat mobile. Produk ini pada awalnya dikembangkan oleh CodeGear sebagai divisi pengembangan perangkat lunak milik Embarcadero, divisi tersebut sebelumnya adalah milik Borland</string>
+
+    <string name="dat12">Day 12</string>
+    <string name="title12">Aspnet</string>
+    <string name="desc12">Active Server Pages .NET adalah kumpulan teknologi dalam Framework .NET untuk membangun aplikasi web dinamik dan XML Web Service. Halaman ASP.NET dijalankan di server kemudian akan dibuat halaman markup seperti HTML, WML, atau XML yang dikirim ke browser desktop atau mobile</string>
+
+    <string name="dat13">Day 13</string>
+    <string name="title13">Typescript</string>
+    <string name="desc13">TypeScript adalah bahasa pemrograman tingkat tinggi sumber terbuka dan gratis yang dikembangkan oleh Microsoft yang menambahkan pengetikan statis dengan anotasi tipe opsional ke JavaScript. Ini dirancang untuk pengembangan aplikasi besar dan transpile ke JavaScript</string>
+
+    <string name="dat14">Day 14</string>
+    <string name="title14">Matlab</string>
+    <string name="desc14">MATLAB adalah sebuah bahasa pemrograman tingkat tinggi yang secara khusus digunakan untuk komputasi numerik, pemrograman, dan visualisasi. Perusahaan yang bertanggung-jawab atas produk hasil pengembangan dari MATLAB ialah MathWorks</string>
+
+    <string name="dat15">Day 15</string>
+    <string name="title15">Golang</string>
+    <string name="desc15">Go adalah bahasa pemrograman yang dibuat di Google pada tahun 2009 oleh Robert Griesemer, Rob Pike, dan Ken Thompson. Go adalah bahasa pemrograman sumber terbuka yang mudah, sederhana, efisien. Selain itu, Go memiliki level yang sama dengan Java</string>
+
+    <string name="dat16">Day 16</string>
+    <string name="title16">Yii framework</string>
+    <string name="desc16">Yii adalah kerangka kerja aplikasi web sumber terbuka berbasis PHP. Nama Yii singkatan dari "Yes It Is!". Seperti juga kerangka kerja PHP pada umumnya, Yii juga telah mengadopsi konsep MVC - Model, View, Controller dalam struktur pemrogramannya</string>
+
+    <string name="dat17">Day 17</string>
+    <string name="title17">Kotlin</string>
+    <string name="desc17">Kotlin adalah sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada Mesin Virtual Java ataupun menggunakan kompiler LLVM yang dapat pula dikompilasikan kedalam bentuk kode sumber JavaScript. Pengembang utamanya berasal dari tim programer dari JetBrains yang bermarkas di Rusia.</string>
+
+    <string name="dat18">Day 18</string>
+    <string name="title18">Express Js</string>
+    <string name="desc18">Express.js, atau hanya Express, adalah kerangka kerja aplikasi web back end untuk membangun RESTful API dengan Node.js, dirilis sebagai perangkat lunak sumber terbuka dan gratis di bawah Lisensi MIT. Ini dirancang untuk membangun aplikasi web dan API.</string>
+
+    <string name="dat19">Day 19</string>
+    <string name="title19">Angular Js</string>
+    <string name="desc19">AngularJS adalah kerangka kerja web berbasis JavaScript sumber terbuka dan gratis yang dihentikan untuk mengembangkan aplikasi satu halaman. Itu dikelola terutama oleh Google dan komunitas individu dan perusahaan</string>
+
+    <string name="dat20">Day 20</string>
+    <string name="title20">Laravel</string>
+    <string name="desc20">Laravel adalah kerangka kerja aplikasi web berbasis PHP yang sumber terbuka, menggunakan konsep Model-View-Controller. Laravel berada dibawah lisensi MIT, dengan menggunakan GitHub sebagai tempat berbagi kode.</string>
+
+    <string name="dat21">Day 21</string>
+    <string name="title21">Javascript</string>
+    <string name="desc21">JavaScript adalah suatu bahasa pemrograman tingkat tinggi dan dinamis. JavaScript populer di internet dan dapat bekerja di sebagian besar penjelajah web populer seperti Google Chrome, Internet Explorer, Mozilla Firefox, Netscape dan Opera. Kode JavaScript dapat disisipkan dalam halaman web menggunakan tag script.</string>
+
+    <string name="dat22">Day 22</string>
+    <string name="title22">Node Js</string>
+    <string name="desc22">Node.js adalah platform perangkat lunak yang dirancang oleh Ryan Dahl. Node.js adalah runtime untuk lingkungan JavaScript di luar peramban web yang dibangun di atas mesin JavaScript V8. Node.js dapat dijalankan pada Windows, Mac OS X, dan Linux</string>
+
+    <string name="dat23">Day 23</string>
+    <string name="title23">Flask</string>
+    <string name="desc23">Flask adalah kerangka kerja aplikasi web bersifat kerangka kerja mikro yang ditulis dalam bahasa pemrograman Python dan menggunakan dependensi Werkzeug dan Jinja2. Aplikasi yang menggunakan Flask antara lain adalah Pinterest, LinkedIn, dan halaman web komunitas situs Flask itu sendiri.</string>
+
+    <string name="dat24">Day 24</string>
+    <string name="title24">Ruby onrails</string>
+    <string name="desc24">Ruby on Rails, disebut juga Rails, adalah sebuah kerangka kerja aplikasi web sumber terbuka yang berjalan via bahasa pemrograman Ruby</string>
+
+    <string name="dat25">Day 25</string>
+    <string name="title25">Sql</string>
+    <string name="desc25">SQL adalah sebuah bahasa yang digunakan untuk mengakses data dalam basis data relasional. Bahasa ini secara de facto merupakan bahasa standar yang digunakan dalam manajemen basis data relasional. Saat ini hampir semua server basis data yang ada mendukung bahasa ini untuk melakukan manajemen datanya.</string>
+
+    <string name="dat26">Day 26</string>
+    <string name="title26">Figma</string>
+    <string name="desc26">Figma adalah sebuah aplikasi web kolaboratif untuk user interface, dengan fitur-fitur luring tambahan yang tersedia pada aplikasi desktop untuk Windows dan macOS.</string>
+
+    <string name="dat27">Day 27</string>
+    <string name="title27">Vue Js</string>
+    <string name="desc27">Vue.js adalah kerangka kerja JavaScript yang bersifat progresif, bersumber terbuka untuk membangun antarmuka pengguna. Integrasi ke dalam proyek yang menggunakan pustaka JavaScript lainnya mudah dilakukan dengan Vue karena ia dirancang untuk bisa berjalan hanya di beberapa bagian halaman web.</string>
+
+    <string name="dat28">Day 28</string>
+    <string name="title28">React Js</string>
+    <string name="desc28">React adalah libray JavaScript yang digunakan untuk membangun user interface yang interaktif berbasis component. React yang dibuat oleh Facebook dan bersifat open-source, sehingga dapat digunakan oleh siapa saja secara gratis. Saat ini React dikelola oleh Meta, komunitas, dan perusahaan individu</string>
+
+    <string name="dat29">Day 29</string>
+    <string name="title29">Django</string>
+    <string name="desc29">Django adalah kerangka kerja web berbasis Python sumber terbuka dan gratis yang mengikuti pola arsitektur model–templat–tampilan. Itu dikelola oleh Django Software Foundation, sebuah organisasi independen yang didirikan di AS sebagai 501 nirlaba</string>
+
+    <string name="dat30">Day 30</string>
+    <string name="title30">Symphony</string>
+    <string name="desc30">Symfony adalah kerangka kerja aplikasi web dan satu set komponen/pustaka PHP yang dapat digunakan ulang. Symfony dipublikasikan sebagai perangkat lunak bebas pada 18 Oktober 2005 dan dirilis di bawah lisensi MIT.</string>
+
+    <string name="expand_button_content_description">See more or less information about a Programming.</string>
+
+</resources>
